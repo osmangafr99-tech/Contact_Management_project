@@ -28,13 +28,21 @@ A robust desktop application built with **C# .NET Windows Forms** and **SQL Serv
 
 ## 📸 Screenshots
 
-| Login Screen | Main Dashboard |
+| Login Screen | Main Dashboard (Search & List) |
 | :---: | :---: |
-| ![Login Screen](images/login.png) | ![Dashboard](images/dashboard.png) |
+| ![Login Screen](Project%20Images/1.png) | ![Main Dashboard](Project%20Images/4.png) |
 
-| Edit Contact | Add New Contact |
+| Search Results & Loading Bar | Edit Contact Form |
 | :---: | :---: |
-| ![Edit Contact](images/edit.png) | ![Add Contact](images/add.png) |
+| ![Search Results](Project%20Images/5.png) | ![Edit Contact](Project%20Images/6.png) |
+
+| Delete Confirmation | Add New Contact Form |
+| :---: | :---: |
+| ![Delete Contact](Project%20Images/7.png) | ![Add New Contact](Project%20Images/8.png) |
+
+| Context Menu Options |
+| :---: |
+| ![Context Menu](Project%20Images/9.png) |
 
 ---
 
